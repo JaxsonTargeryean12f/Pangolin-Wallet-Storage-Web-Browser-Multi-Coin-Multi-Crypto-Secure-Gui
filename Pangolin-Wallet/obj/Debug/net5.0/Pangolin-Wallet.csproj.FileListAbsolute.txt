@@ -1,0 +1,4 @@
+D:\GithubNew\1\Pangolin-Wallet\Pangolin-Wallet\Pangolin-Wallet\obj\Debug\net5.0\Pangolin-Wallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubNew\1\Pangolin-Wallet\Pangolin-Wallet\Pangolin-Wallet\obj\Debug\net5.0\Pangolin-Wallet.AssemblyInfoInputs.cache
+D:\GithubNew\1\Pangolin-Wallet\Pangolin-Wallet\Pangolin-Wallet\obj\Debug\net5.0\Pangolin-Wallet.AssemblyInfo.cs
+D:\GithubNew\1\Pangolin-Wallet\Pangolin-Wallet\Pangolin-Wallet\obj\Debug\net5.0\Pangolin-Wallet.csproj.CoreCompileInputs.cache
